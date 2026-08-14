@@ -26,11 +26,9 @@ author:
   avatar           : "飞书.png"
   name             : "Zhibiao Liang(梁志标)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "♂"
+  location         : "Guangzhou, China"
+  email            : "zhibiaoliang@m.scnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
